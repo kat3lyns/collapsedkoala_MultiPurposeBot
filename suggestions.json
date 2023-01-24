@@ -1,0 +1,62 @@
+{
+    "1044681165858152518": {
+        "suggestion": "blah blah blah testing cool i think idk",
+        "message_id": "1044681167531683850",
+        "channel_id": "1044676030109077544",
+        "options": [
+            "Agree",
+            "Disagree"
+        ],
+        "participants": {
+            "0": [],
+            "1": [
+                "711325203824771153"
+            ]
+        },
+        "suggester": "711325203824771153"
+    },
+    "1044685379695026206": {
+        "suggestion": "Test",
+        "message_id": "1044685381154640003",
+        "channel_id": "1044676030109077544",
+        "options": [
+            "Agree",
+            "Disagree"
+        ],
+        "participants": {
+            "0": [
+                "711325203824771153"
+            ],
+            "1": []
+        },
+        "suggester": "711325203824771153"
+    },
+    "1044685498398031902": {
+        "suggestion": "hello there",
+        "message_id": "1044685500344193154",
+        "channel_id": "1044676030109077544",
+        "options": [
+            "Agree",
+            "Disagree"
+        ],
+        "participants": {
+            "0": [],
+            "1": []
+        },
+        "suggester": "837449515275518012"
+    },
+    "1044685895250481153": {
+        "suggestion": "testing ignore me",
+        "message_id": "1044685898085830677",
+        "channel_id": "1044676030109077544",
+        "options": [
+            "Agree",
+            "Disagree"
+        ],
+        "participants": {
+            "0": [],
+            "1": []
+        },
+        "suggester": "711325203824771153"
+    }
+}

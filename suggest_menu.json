@@ -1,0 +1,14 @@
+{
+    "embed_colour": "#982DE7",
+    "embed_footer": "Suggestions System",
+    "embed_description": "Put a description here.",
+    "embed_title": "Create a suggestion!",
+    "embed_image": "https://cdn.discordapp.com/attachments/993192533599461476/995054181687754793/unknown.png",
+    
+    "NOTE": "JUST PUT A RANDOM ID FOR THE BUTTON IT DOESN'T MATTER!",
+    "button": { 
+        "emoji": "🇦", 
+        "name": "Create Suggestion", 
+        "id": "suggestion_button_testtest"
+    }
+}

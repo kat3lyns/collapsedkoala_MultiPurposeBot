@@ -1,0 +1,14 @@
+{
+    "embed_colour": "#982DE7",
+    "embed_footer": "Ticketing System",
+    "embed_description": "Put a description here.",
+    "embed_title": "Create a ticket!",
+    "embed_image": "https://cdn.discordapp.com/attachments/993192533599461476/995054181687754793/unknown.png",
+    
+    "NOTE": "PLEASE PUT TICKET_OPTION_ BEFORE THE ID.",
+    "options": [
+        { "emoji": "🇦", "name": "Test Option", "id": "ticket_option_test", "category": "956785364016693298", "support_role": "922324756915687435" },
+        { "emoji": "🇧", "name": "Test2 Option", "id": "ticket_option_test2", "category": "956785364016693298", "support_role": "922324756915687435" },
+        { "emoji": "🇨", "name": "Test3 Option", "id": "ticket_option_test3", "category": "956785364016693298", "support_role": "922324756915687435" } 
+    ]
+}

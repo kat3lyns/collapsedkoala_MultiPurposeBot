@@ -1,0 +1,19 @@
+{
+    "bot_token": "X",
+    "guild_id": "922298888994553917",
+    "staff_role": "1032696754082172988",
+    "log_channel": "1044676030109077544",
+    "accepted_suggestions": "1044676030109077544",
+    "denied_suggestions": "1044676030109077544",
+    "suggestions_channel": "1044676030109077544",
+
+    "mysql": {
+        "host": "X",
+        "post": "X",
+        "username": "X",
+        "password": "X",
+        "database": "X"
+    },
+
+    "autorole_role": "1032841695840174141"
+}

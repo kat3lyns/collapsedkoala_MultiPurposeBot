@@ -1,0 +1,14 @@
+{
+    "embed_colour": "#982DE7",
+    "embed_footer": "Reaction Roles",
+    "embed_description": "Put a description here.",
+    "embed_title": "Claim your reaction roles here.",
+    "embed_image": "https://media.discordapp.net/attachments/990037794724397086/1032842738862915614/E3_C.png?width=1440&height=370",
+    "embed_footericon": "https://media.discordapp.net/attachments/990037794724397086/1032843582312296508/A7.png",
+    
+    "options": [
+        { "emoji": "🇦", "role_id": "1032841809480667196" },
+        { "emoji": "🇧", "role_id": "1032841744255025292" },
+        { "emoji": "🇨", "role_id": "1032841695840174141" }
+    ]
+}
